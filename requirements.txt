@@ -1,0 +1,9 @@
+matplotlib==3.9.2
+numpy==2.3.0
+Pillow==11.2.1
+scikit_learn==1.6.1
+seaborn==0.13.2
+streamlit==1.44.1
+tensorflow==2.14.0
+tqdm==4.66.5
+altair<5
